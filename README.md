@@ -1,6 +1,6 @@
 #PHP Word Counter
 
-[Xia's Github](https://github.com/Xesme/php-word-counter.git)_
+[Xia's Github](https://github.com/Xesme/word-counter.git)_
 
 A simple webpage for a word counter, February 17th, 2017
 
@@ -22,7 +22,7 @@ returns true.|
 
 ##Setup and Installation Requirements:
 
-* _Visit [Xia's Github](https://github.com/Xesme/php-word-counter.git)_
+* _Visit [Xia's Github](https://github.com/Xesme/word-counter.git)_
 * _Click on the clone or download button_
 * _Download the zip (unzip to desktop) or open in desktop_
 * _Open the folder and use a text editor to open the folder_
