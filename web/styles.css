@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    border: solid black 2px;
+}
+
+.container {
+    margin-top: 100px;
+    padding: 40px;
+}
+
+
+#red {
+    color: red;
+}
